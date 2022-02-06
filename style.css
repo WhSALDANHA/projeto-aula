@@ -1,0 +1,28 @@
+h1 {
+
+    background-color: gray;
+    color: greenyellow;
+    font-size: 45px;
+}
+
+p {
+  border: 2px solid red;
+   font-size: 23px;  
+ text-align: center;
+
+}
+#qlqrnome {
+  border: 10px dashed rgb(235, 12, 168);
+}
+
+#qlqrnome .true{
+  width: 50%;
+  right: 50%;
+padding: 23px 23px 23px 23px;
+}
+
+#qlqrnome .vdd {
+  width: 50%;
+  right: 50%;
+
+}
